@@ -1,0 +1,5 @@
+site_name: Project Battleship
+repo_url: https://github.com/c0dezer019/battleship-documentation
+site_url: https://github.com/c0dezer019/ProjectBattleship
+theme:
+  name: readthedocs
